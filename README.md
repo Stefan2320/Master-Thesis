@@ -27,7 +27,8 @@ The `helpers` directory contains simple programs that help you analyze heap bins
 
 ## Heap Internals
 
-This diagrams shows the internals of the heap. You can hover over the nodes to see more information. Clicking on a node will take you to the corresponding section of the source code responsible for that action.
+This diagrams shows the internals of the heap.If you download the SVG locally, you can hover over the nodes to see more information. Clicking on a node will take you to the corresponding section of the source code responsible for that action.
+
 ### Malloc
 [Click here to view malloc SVG](https://github.com/Stefan2320/Master-Thesis/tree/main/images/svg/malloc.svg)
 ### Free
