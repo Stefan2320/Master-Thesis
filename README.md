@@ -29,8 +29,8 @@ The `helpers` directory contains simple programs that help you analyze heap bins
 
 This diagrams shows the internals of the heap. You can hover over the nodes to see more information. Clicking on a node will take you to the corresponding section of the source code responsible for that action.
 ### Malloc
-[Click here to view malloc SVG](https://github.com/Stefan2320/Master-Thesis/tree/main/images/malloc.svg)
+[Click here to view malloc SVG](https://github.com/Stefan2320/Master-Thesis/tree/main/images/svg/malloc.svg)
 ### Free
-[Click here to view free SVG](https://github.com/Stefan2320/Master-Thesis/tree/main/images/free.svg)
+[Click here to view free SVG](https://github.com/Stefan2320/Master-Thesis/tree/main/images/svg/free.svg)
 ### Binmap
-[Click here to view binmap SVG](https://github.com/Stefan2320/Master-Thesis/tree/main/images/binmap.svg)
+[Click here to view binmap SVG](https://github.com/Stefan2320/Master-Thesis/tree/main/images/svg/binmap.svg)
